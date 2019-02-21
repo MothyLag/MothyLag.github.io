@@ -1,0 +1,14 @@
+html {
+  padding: 10;
+}
+
+.mty-btn {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 25px 10px 25px;
+  background-color: #0174DF;
+  border-radius: 8px;
+  box-shadow: 0 9px #999;
+}
+
+/*# sourceMappingURL=mothystyle.css.map */
